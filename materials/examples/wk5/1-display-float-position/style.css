@@ -20,7 +20,7 @@
 ////////////////////////////*/
 /* center entire page */
 body {
-	/*max-width: 600px;
+/*	max-width: 600px;
 	margin: 1em auto;*/
 }
 img {
@@ -46,8 +46,8 @@ body {
 	/* first everything has been pushed 100px with body padding
 	 * then will pull, just the logo, back that same amount
 	 */
-	/*margin-left: -100px;
-	margin-top: 0;*/
+	margin-left: -20px;
+	margin-top: 0;
 	
 	/* try	margin-left: -120px; to crop some of the logo */
 }
@@ -192,7 +192,7 @@ h2 {
 ////////////////////////////*/
 #page-name {
 	 /*position: relative;
-	 left: 15px;
+	 left: 5px;
 	 top: -70px;
 	 color: white;*/
 }
@@ -255,16 +255,16 @@ h2 {
 /* position absolute places elements relative to the nearest
  * parent who has position absolute or relative, usually this is the 
  * body, but we can change that */
-/*article {
-	position: relative;
-	padding-top: 100px;
+article {
+/*	position: relative;
+	padding-top: 100px;*/
 }
 #page-name {
-	font-size: 100px;
+/*	font-size: 100px;
 	margin: 0;
 	position: absolute;
-	top: 0;
-}*/
+	top: 0;*/
+}
 
 
 

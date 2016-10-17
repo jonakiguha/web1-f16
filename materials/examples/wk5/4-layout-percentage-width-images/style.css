@@ -1,4 +1,6 @@
-.bird {
+	/*For zooming in*/
+	
+	.bird {
 	position: relative;
 	padding: 1%;
 
@@ -7,6 +9,8 @@
 }
 .bird img {
 	width: 100%;
+	
+	
 }
 
 .bird .caption {
